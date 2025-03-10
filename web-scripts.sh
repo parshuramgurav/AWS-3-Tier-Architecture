@@ -26,7 +26,7 @@ fi
 # ================================
 # CONFIGURATION VARIABLES
 # ================================
-GITHUB_REPO_URL="https://github.com/<username>/<repo>.git"  # Replace with your GitHub repo URL
+GITHUB_REPO_URL="https://github.com/parshuramgurav/<repo>.git"  # Replace with your GitHub repo URL
 WEB_FOLDER_PATH="application-code/web-tier"                # Path to your web-tier code in the repo
 NGINX_CONFIG_PATH="application-code/nginx.conf"              # Path to your custom nginx.conf in the repo
 WEB_DIR="/home/ec2-user/web-tier"

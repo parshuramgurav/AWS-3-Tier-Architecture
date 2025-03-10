@@ -26,7 +26,7 @@ fi
 #===============================
 # CONFIGURATION VARIABLES
 #===============================
-GITHUB_REPO_URL="https://github.com/<username>/<repo>.git"  # Replace with your GitHub repo URL
+GITHUB_REPO_URL="https://github.com/parshuramgurav/<repo>.git"  # Replace with your GitHub repo URL
 FOLDER_PATH="application-code/app-tier"                    # Replace with the specific folder path
 APP_DIR="/home/ec2-user/app-tier"
 
