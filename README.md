@@ -32,7 +32,7 @@ To streamline the deployment and focus on application-specific tasks, essential 
 
 ---
 
-# User Part
+# Hands-On Section
 
 ## Creating Web Server in Public Subnet
 
@@ -741,8 +741,6 @@ A Target Group defines which servers your ALB will route requests to.
 
 ## Step-by-Step Instructions for Opening Ports from External ALB Security Group to Web Server Security Group (Securely)
 
-**Objective**: Configure secure port openings between the External ALB Security Group and the Web Server Security Group to ensure controlled access while maintaining security best practices.
-
 ### Step 1: Navigate to the Security Groups in AWS Console
 1. Log into the AWS Management Console.
 2. Open the EC2 service.
@@ -792,8 +790,6 @@ A Target Group defines which servers your ALB will route requests to.
 ---
 
 ## Step-by-Step Instructions for Opening Ports from Web Server Security Group to Internal ALB Security Group (Securely)
-
-**Objective**: Configure secure port openings between the Web Server Security Group and the Internal ALB Security Group to ensure controlled access while maintaining security best practices.
 
 ### Step 1: Navigate to Security Groups in AWS Console
 1. Log into the AWS Management Console.
