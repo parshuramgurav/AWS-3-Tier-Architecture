@@ -860,8 +860,6 @@ A Target Group defines which servers your ALB will route requests to.
 
 ## Step-by-Step Instructions for Opening Ports from Internal ALB Security Group to App Server Security Group (Securely)
 
-**Objective**: Configure secure port openings between the Internal ALB Security Group and the App Server Security Group to ensure controlled access while maintaining security best practices.
-
 ### Step 1: Navigate to Security Groups in AWS Console
 1. Log into the AWS Management Console.
 2. Open the EC2 service.
