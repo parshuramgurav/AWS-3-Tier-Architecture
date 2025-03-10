@@ -991,8 +991,6 @@ A Target Group defines which servers your ALB will route requests to.
 
 # Step-by-Step Instructions for Opening Port 80 from the Internet to External ALB (Securely)
 
-## Objective
-
 Configure secure port opening to allow public HTTP traffic (port 80) from the internet to reach the External Application Load Balancer (ALB) while ensuring security best practices.
 
 ## Step 1: Navigate to Security Groups in AWS Console
